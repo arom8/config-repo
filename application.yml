@@ -1,0 +1,3 @@
+message: "hola"
+server:
+  port: 8889
