@@ -1,3 +1,4 @@
+message : "Hola desde config server"
 server:
   port: 8889
 
