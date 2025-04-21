@@ -4,15 +4,4 @@ server:
 custom:
   greeting: "Hola desde config server me"
 
-service:
-  ms-products-dbrestaurant:
-    url: http://localhost:8081
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-    health:
-      show-details: "always"
 
