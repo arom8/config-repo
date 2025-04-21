@@ -1,4 +1,3 @@
 message : "Hola desde config server me products - default"
-server:
-  port: 8889
+
 
