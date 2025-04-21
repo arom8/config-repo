@@ -2,5 +2,5 @@ server:
   port: 8082
 
 custom:
-  greeting: "Hola desde config server"
+  greeting: "Hola desde config server me"
 
