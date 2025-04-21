@@ -1,3 +1,1 @@
-server:
-  port: 8083
-message: "hola config repo application gral"
+messageGral: "hola config repo application gral"
