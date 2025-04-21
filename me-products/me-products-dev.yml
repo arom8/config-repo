@@ -1,4 +1,6 @@
-message : "Hola desde config server me products - dev"
 server:
-  port: 8889
+  port: 8082
+
+custom:
+  greeting: "Hola desde config server"
 
