@@ -1,0 +1,7 @@
+server:
+  port: 8085
+
+custom:
+  greeting: "Hola desde config server me-order"
+
+
